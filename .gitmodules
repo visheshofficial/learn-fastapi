@@ -1,0 +1,3 @@
+[submodule "fastapi-course-github"]
+	path = fastapi-course-github
+	url = https://github.com/madscheme/fastapi.git
